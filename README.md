@@ -38,7 +38,7 @@ Titanic-Survivor-Prediction/
 
 #### Clone the repository
 
-```bash
+bash
 git clone https://github.com/your-username/Titanic-Survivor-Prediction.git
 cd Titanic-Survivor-Prediction
 
